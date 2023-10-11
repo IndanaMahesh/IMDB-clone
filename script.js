@@ -1,5 +1,5 @@
 // OMDB API Key
-const apiKey = '7cc2e66b';
+const apiKey = '93e0ff26';
 
 // Handle the form submission
 document.getElementById('movieForm').addEventListener('submit', function (event) {
