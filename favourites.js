@@ -7,7 +7,7 @@ if (favorites.length === 0) {
     // Handle myfavorites.html page load
     if (window.location.pathname.endsWith('/myfavorites.html')) {
         const fetchMovieDetails = async (title) => {
-            const apiKey = '7cc2e66b';
+            const apiKey = '93e0ff26';
             const url = `https://www.omdbapi.com/?t=${title}&apikey=${apiKey}`;
             try {
                 const response = await fetch(url);
