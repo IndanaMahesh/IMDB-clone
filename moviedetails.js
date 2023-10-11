@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Function to fetch movie details from OMDB API
     async function fetchMovieDetails(title) {
-        const apiKey = '7cc2e66b';
+        const apiKey = '93e0ff26';
         const url = `https://www.omdbapi.com/?t=${title}&apikey=${apiKey}`;
         
         try {
