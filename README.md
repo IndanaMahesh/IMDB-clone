@@ -1,4 +1,4 @@
-Hosted Link:
+Hosted Link:https://indanamahesh.github.io/IMDB-clone/index.html
 # IMDB-clone
 Its a clone i have created for IMDB site.
 Features
